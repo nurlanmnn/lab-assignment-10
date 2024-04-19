@@ -1,0 +1,13 @@
+12
+not
+note
+ucf
+notaword
+notawordeither
+notaword
+ucf
+note
+ucf
+notawordeithereither
+not
+ucf
